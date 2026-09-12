@@ -97,3 +97,23 @@ The admin product-data tools can export or back up only the products used by the
 ## Important note
 
 The screenshots are neutral frontend showcase renders based on the configurator’s real user flow and interface structure. They do not expose a shop domain, customer data, product exports, or plugin files.
+
+## Step-by-step frontend screenshots
+
+The complete nine-step flow is shown below. Product names and example prices remain visible for demonstration.
+
+1. ![Ruimte](screenshots/01-frontend-ruimte.png)
+2. ![Kweektent](screenshots/02-frontend-kweektent.png)
+3. ![Potten](screenshots/03-frontend-potten.png)
+4. ![Substraat](screenshots/04-frontend-substraat.png)
+5. ![Voeding](screenshots/05-frontend-voeding.png)
+6. ![Verlichting](screenshots/06-frontend-verlichting.png)
+7. ![Ventilatie](screenshots/07-frontend-ventilatie.png)
+8. ![Filter](screenshots/08-frontend-filter.png)
+9. ![Afronden](screenshots/09-frontend-afronden.png)
+
+## Backend screenshots
+
+![Backend product mapping](screenshots/categorieën-productrollen.png)
+
+![Backend product data tools](screenshots/productgegevens-controleren.png)
