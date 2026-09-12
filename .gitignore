@@ -1,0 +1,5 @@
+*.zip
+*.php
+*.js
+*.css
+vendor/
