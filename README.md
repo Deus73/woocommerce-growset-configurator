@@ -116,4 +116,4 @@ The complete nine-step flow is shown below. Product names and example prices rem
 
 ![Backend product mapping](screenshots/categorieën-productrollen.png)
 
-![Backend product data tools](screenshots/productgegevens-controleren.png)
+![Backend product data tools](screenshots/productdata-controleren.png)
